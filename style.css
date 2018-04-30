@@ -1,0 +1,46 @@
+
+h1{
+
+   color:green;
+
+   font-size: 50px;
+
+   font-family: Pacifico;
+
+}
+
+.comImage {
+
+	border: 5px solid #2d26af;
+}
+
+.comImage:hover{
+
+	border: 5px solid red;
+}
+
+#headingTwo{
+
+	background-color: blue;
+
+    padding-centre: 20px;
+
+    font-size:30px;
+
+    color: green;
+
+    text-transform: : uppercase;
+	
+}
+
+.first-paragraph{
+
+	background-color:#c98f54; 
+
+	color: #ffffff;
+}
+
+.imageDiv{
+
+	margin: 50px 20px 0px 100px;
+}
